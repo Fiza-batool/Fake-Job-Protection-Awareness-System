@@ -125,7 +125,7 @@ The result includes:
 
 ## Website Preview
 
-[![Website Screenshot](homepage.png)](https://job-detection-64hm.vercel.app/)
+[![Website Screenshot](Fakejob.png)](https://job-detection-64hm.vercel.app/)
 
 
 # 🤖 Machine Learning
